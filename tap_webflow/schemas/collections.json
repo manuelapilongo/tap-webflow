@@ -1,0 +1,44 @@
+{
+  "type": [
+    "null",
+    "object"
+  ],
+  "properties": {
+    "_id": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "lastUpdated": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "createdOn": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "name": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "slug": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "singularName": {
+      "type": [
+        "null",
+        "string"
+      ]
+    }
+  }
+}

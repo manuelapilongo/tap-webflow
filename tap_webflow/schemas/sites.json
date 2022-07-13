@@ -1,0 +1,56 @@
+{
+  "type": [
+    "null",
+    "object"
+  ],
+  "properties": {
+    "_id": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "createdOn": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "name": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "shortName": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "lastPublished": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "previewUrl": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "timezone": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "database": {
+      "type": [
+        "null",
+        "string"
+      ]
+    }
+  }
+}

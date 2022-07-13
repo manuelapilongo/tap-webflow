@@ -1,0 +1,165 @@
+{
+  "type": [
+    "null",
+    "object"
+  ],
+  "properties": {
+    "_archived": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    "_draft": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    "episode-url": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "bonus-content": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    "part-number": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "video-series-number": {
+      "type": [
+        "null",
+        "integer"
+      ]
+    },
+    "name": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "video-length": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "slug": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "course-info": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "spotlight-part": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "spotlight-trailer-intro": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "updated-on": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "updated-by": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "created-on": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "created-by": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "published-on": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "published-by": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "university": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "next-video": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "video-thumbnail": {
+      "type": [
+        "null",
+        "object"
+      ],
+      "properties": {
+        "fileId": {
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        "url": {
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        "alt": {
+          "type": [
+            "null"
+          ]
+        }
+      }
+    },
+    "_cid": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "_id": {
+      "type": [
+        "null",
+        "string"
+      ]
+    }
+  }
+}
